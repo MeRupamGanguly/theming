@@ -14,3 +14,7 @@
 /home/rupx/.local/share/rofi/rofi-find.sh
 
 /home/rupx/.config/rofi/config.rasi
+
+/home/rupx/.local/share/rofi/rofi-find.sh
+
+rofi -show drun
